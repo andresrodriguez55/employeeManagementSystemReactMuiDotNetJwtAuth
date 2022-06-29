@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/andresrodriguez55/employeeCrudAppWtihJwtAuth/static/css/main.2099a752.css",
-    "main.js": "/andresrodriguez55/employeeCrudAppWtihJwtAuth/static/js/main.2e54ed17.js",
-    "static/js/787.22ba93b2.chunk.js": "/andresrodriguez55/employeeCrudAppWtihJwtAuth/static/js/787.22ba93b2.chunk.js",
-    "index.html": "/andresrodriguez55/employeeCrudAppWtihJwtAuth/index.html",
-    "main.2099a752.css.map": "/andresrodriguez55/employeeCrudAppWtihJwtAuth/static/css/main.2099a752.css.map",
-    "main.2e54ed17.js.map": "/andresrodriguez55/employeeCrudAppWtihJwtAuth/static/js/main.2e54ed17.js.map",
-    "787.22ba93b2.chunk.js.map": "/andresrodriguez55/employeeCrudAppWtihJwtAuth/static/js/787.22ba93b2.chunk.js.map"
+    "main.css": "/employeeCrudAppWtihJwtAuth/static/css/main.2099a752.css",
+    "main.js": "/employeeCrudAppWtihJwtAuth/static/js/main.628744db.js",
+    "static/js/787.22ba93b2.chunk.js": "/employeeCrudAppWtihJwtAuth/static/js/787.22ba93b2.chunk.js",
+    "index.html": "/employeeCrudAppWtihJwtAuth/index.html",
+    "main.2099a752.css.map": "/employeeCrudAppWtihJwtAuth/static/css/main.2099a752.css.map",
+    "main.628744db.js.map": "/employeeCrudAppWtihJwtAuth/static/js/main.628744db.js.map",
+    "787.22ba93b2.chunk.js.map": "/employeeCrudAppWtihJwtAuth/static/js/787.22ba93b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2099a752.css",
-    "static/js/main.2e54ed17.js"
+    "static/js/main.628744db.js"
   ]
 }
