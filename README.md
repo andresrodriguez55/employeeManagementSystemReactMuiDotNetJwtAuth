@@ -8,6 +8,7 @@
 - Database Design
 - Backend With .NET
 - Frontend With React
+- Screenshots
 - Host
 
 ## Database Design
@@ -35,6 +36,13 @@ Tokens have also been implemented to restrict HTTP actions. I have given the rig
 ![](https://drive.google.com/uc?id=12oAbAkcxDBEKhppKtAGlZI8_WdepM18a)
 
 Finally, sketches of the interface were made. In addition, the Material UI component library is used to achieve a simple and effective design.
+
+# Screenshots
+
+![](https://drive.google.com/uc?id=1aJXdigGW0ALRQnpIS_cMF5Y1NlllzQa1)
+![](https://drive.google.com/uc?id=1Ui_L5sGCzIqcaDJCGRkUNKov4L1M4Slt)
+![](https://drive.google.com/uc?id=1Qr7LqkFzI8brx8QRbhOkQ1NzcG8vFZ8c)
+![](https://drive.google.com/uc?id=1aq6njQSaSdTUC3a1XtuidkPFEKtaW1_3)
 
 ## Host
 
