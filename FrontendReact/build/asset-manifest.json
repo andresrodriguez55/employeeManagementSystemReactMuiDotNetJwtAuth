@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employeeManagementSystemReactMuiDotNetJwtAuth/static/css/main.2099a752.css",
+    "main.js": "/employeeManagementSystemReactMuiDotNetJwtAuth/static/js/main.4730ae7f.js",
+    "static/js/787.22ba93b2.chunk.js": "/employeeManagementSystemReactMuiDotNetJwtAuth/static/js/787.22ba93b2.chunk.js",
+    "index.html": "/employeeManagementSystemReactMuiDotNetJwtAuth/index.html",
+    "main.2099a752.css.map": "/employeeManagementSystemReactMuiDotNetJwtAuth/static/css/main.2099a752.css.map",
+    "main.4730ae7f.js.map": "/employeeManagementSystemReactMuiDotNetJwtAuth/static/js/main.4730ae7f.js.map",
+    "787.22ba93b2.chunk.js.map": "/employeeManagementSystemReactMuiDotNetJwtAuth/static/js/787.22ba93b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2099a752.css",
+    "static/js/main.4730ae7f.js"
+  ]
+}
