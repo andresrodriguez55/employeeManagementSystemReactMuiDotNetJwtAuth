@@ -56,12 +56,5 @@ INSERT INTO EMPLOYEE(dName, nationalNumber, fname, lname, salary, sex, bDate) VA
 INSERT INTO EMPLOYEE(dName, nationalNumber, fname, lname, salary, sex, bDate) VALUES('IT', 531926135, 'Jose', 'Rodriguez', 5440, 'M', '1990-09-09');
 INSERT INTO EMPLOYEE(dName, nationalNumber, fname, lname, salary, sex, bDate) VALUES('IT', 224021037, 'Alejandra', 'Hernandez', 5440, 'F', '1984-07-17');
 
-DELETE FROM BUSINESS_USER
-INSERT INTO BUSINESS_USER VALUES('admin', '!9953Art');
-INSERT INTO BUSINESS_USER VALUES('demo', 'demo');
-
-SELECT * FROM BUSINESS_USER;
-
-UPDATE EMPLOYEE SET sex = 'M' WHERE nationalNumber =144221028 or nationalNumber = 111532567 or nationalNumber = 531926135
-
+SELECT * FROM BUSINESS_USER
 SELECT * FROM DEPARTMENT
