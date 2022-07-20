@@ -2,14 +2,11 @@
 
 <a href="https://github.com/andresrodriguez55/employeeManagementSystemReactMuiDotNetJwtAuth" target="_blank">Repo link</a>
 
-<b>Warning: You can test the project by clicking <a href="https://andresrodriguez55.github.io/employeeManagementSystemReactMuiDotNetJwtAuth/" target="_blank">here</a> using the username and password "demo". You will not have the right to delete, add or manipulate any data.</b>
-
 ## Contents
 - Database Design
 - Backend With .NET
 - Frontend With React
 - Screenshots
-- Host
 
 ## Database Design
 
@@ -29,8 +26,6 @@ After writing the SQL scripts, the backend part was started. Entity Framework wa
 
 JSON Web Tokens are used for session recording and data protection, not too detailed, the token is set up with a user name and password to perform the operation in a simple way, each created token has one hour validity. The token is stored in the client's local area.
 
-Tokens have also been implemented to restrict HTTP actions. I have given the right to the account with the username and password "demo" to only get content, use it to test the <a href="https://andresrodriguez55.github.io/employeeManagementSystemReactMuiDotNetJwtAuth/" target="_blank">project</a>.
-
 ## Frontend With React
 
 ![](https://drive.google.com/uc?id=12oAbAkcxDBEKhppKtAGlZI8_WdepM18a)
@@ -43,7 +38,3 @@ Finally, sketches of the interface were made. In addition, the Material UI compo
 ![](https://drive.google.com/uc?id=1Ui_L5sGCzIqcaDJCGRkUNKov4L1M4Slt)
 ![](https://drive.google.com/uc?id=1Qr7LqkFzI8brx8QRbhOkQ1NzcG8vFZ8c)
 ![](https://drive.google.com/uc?id=1aq6njQSaSdTUC3a1XtuidkPFEKtaW1_3)
-
-## Host
-
-Static files have been uploaded to Github Pages to facilitate testing of the project. The backend is on Heroku, the database is on the Somee site.
